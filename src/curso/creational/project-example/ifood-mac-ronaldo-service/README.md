@@ -15,7 +15,8 @@ O repositório possui a seguinte estrutura de diretórios:
 - **`src/index.ts`**: dentro da pasta de seu projeto, index.ts será um programa interativo de entrada de inputs.
 - **`src/controller`**: Baseado em MVC, usarei controller para tratar as escolhas do usuario como mapeamento de ações
 - **`src/service`**: Baseado em MVC, onde ficará o codigo que vai processar usando os design paterns em geral
+- **`src/service`**: Baseado em MVC, onde ficará o codigo que vai enviar para o cliente a resposta
 - **`src/class`**: Onde ficará classes amazenadas que serão utilizadas
-- **`src/class-{factory, monostate, outros}`**: Onde ficará classes amazenadas que serão utilizadas com design pattern
+- **`src/class/class.{factory, monostate, outros}.ts`**: Onde ficará classes amazenadas que serão utilizadas com design pattern
 - **`src/interfaces`**: Onde ficará interfaces amazenadas que serão utilizadas
-- **`src/interfaces-{factory, monostate, outros}`**: Onde ficará interfaces amazenadas que serão utilizadas com design pattern
+- **`src/interfaces/interface.{factory, monostate, outros}.ts`**: Onde ficará interfaces amazenadas que serão utilizadas com design pattern
