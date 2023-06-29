@@ -1,0 +1,1 @@
+console.log('Eu pulei pois é a mesma coisa que service de MVC e outras coisas. Acho muito interessante mas simples')
